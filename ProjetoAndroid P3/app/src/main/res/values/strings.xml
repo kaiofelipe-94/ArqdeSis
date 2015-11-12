@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Locadora de Veículos</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="botao_enviar">Consultar</string>
+
+    <string-array name="cidades">
+
+        <item>Escolha uma cidade</item>
+        <item>São Paulo</item>
+        <item>Guarulhos</item>
+        <item>Rio de Janeiro</item>
+    </string-array>
+
+
+</resources>
+
